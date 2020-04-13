@@ -21,5 +21,5 @@ Conclusions for 3 questions posed:
 3. <$3M 
 
 Description
-medium_HCQblogpost.py: graph plotting and analysis script
+Medium BlogPost.ipynb: jupyter notebook graph plotting and analysis script
 IHME_USA_Proj_Apr08.csv: IHME projected death and inferred infection rate
