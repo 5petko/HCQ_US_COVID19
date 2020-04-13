@@ -17,8 +17,8 @@ The infection rate used was inferred by using the current death rate as work beg
 
 Conclusions for 3 questions posed:
 1. ~ 15M 200mg HCQ pills will be neeed
-2. > 40M HCQ pills will be supplied
-3. < $3M 
+2. greater than 40M HCQ pills will be supplied
+3. less than $3M 
 
 Description
 Medium BlogPost.ipynb: jupyter notebook graph plotting and analysis script
