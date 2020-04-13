@@ -16,9 +16,9 @@ The infection rate used was inferred by using the current death rate as work beg
 12,936/401,166 = 0.032246 (source https://www.cnn.com/interactive/2020/health/coronavirus-us-maps-and-cases/)
 
 Conclusions for 3 questions posed:
-1. ~15M 200mg HCQ pills will be neeed
-2. >40M HCQ pills will be supplied
-3. <$3M 
+1. ~ 15M 200mg HCQ pills will be neeed
+2. > 40M HCQ pills will be supplied
+3. < $3M 
 
 Description
 Medium BlogPost.ipynb: jupyter notebook graph plotting and analysis script
